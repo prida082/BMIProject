@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">BMI</string>
+
+    <string name="bmi">คำนวนค่าดัชนีมวลกาย - BMI</string>
+    <string name="wihi">ใส่ค่าน้ำหนัก - ส่วนสูงของคุณ</string>
+    <string name="hi">ส่วนสูง(cm)</string>
+    <string name="wi">น้ำหนัก(kg)</string>
+    <string name="cal">คำนวณ BMI</string>
+    <string name="fbmi">BMI ของคุณ</string>
+    <string name="res">ผลลัพธ์ของคุณ</string>
+    <string name="info">ผลลัพธ์ MBI</string>
+
+
+    <string name="a30">อ้วนมาก = 30.0 หรือมากกว่า ค่อนข้างอันตราย มีความเสี่ยงที่จะเกิดโรคร้ายแรง</string>
+    <string name="a25">อ้วน = 25.0 - 29.9 อ้วนถึงระดับหนึ่ง ถึงแม้จะไม่ถือว่าอ้วนมาก</string>
+    <string name="a24">น้ำหนักปกติที่เหมาะสม = 18.6 - 24 ห่างไกลจากโรคที่เกิดจากโรคอ้วน</string>
+    <string name="a18">ผอมเกินไป = น้อยกว่า 18.5 น้ำหนักน้อยกว่าปกติไม่ดี</string>
+    <string name="info2">ค่าดัชนีมวลกายจากเครื่องคิดเลขนี้ เป็นค่าของคนเอเชียและคนไทย สิ่งนี้อาจแตกต่างกันไปตามเชื้อชาติ</string>
+    <string name="bmical">คำนวณดัชนีมวลกาย (BMI)</string>
+
+    <string name="bac">กลับ</string>
+
+    <string name="exit">จบการทำงาน</string>
+    <string name="cre">ผู้สร้าง</string>
+
+    <string name="a301">อ้วนมาก</string>
+    <string name="a251">อ้วน</string>
+    <string name="a241">น้ำหนักปกติที่เหมาะสม</string>
+    <string name="a181">ผอมเกินไป</string>
+
+</resources>

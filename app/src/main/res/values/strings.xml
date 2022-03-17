@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="bmi">Body Mass Index (BMI)</string>
+    <string name="wihi">enter weight and height</string>
+    <string name="hi">height(cm)</string>
+    <string name="wi">weight(kg)</string>
+    <string name="cal">Calculator</string>
+    <string name="fbmi">your BMI</string>
+    <string name="res">result proportion</string>
+    <string name="info">result information</string>
+
+
+    <string name="a30">Very obese = 30.0 or more quite dangerous There is a risk of developing serious illnesses.</string>
+    <string name="a25">Obese = 25.0 - 29.9 obese to some extent Although not considered very fat.</string>
+    <string name="a24">Normal weight, suitable = 18.6 - 24 far from the disease caused by obesity.</string>
+    <string name="a18">Too thin = less than 18.5 underweight is not good.</string>
+    <string name="info2">BMI value from this calculator It is a value for Asians and Thais. This may vary from race to ethnicity.</string>
+    <string name="bmical">Body Mass Index (BMI) Calculator</string>
+
+    <string name="bac">Back</string>
+
+    <string name="exit">Exit</string>
+    <string name="cre">Creater</string>
+
+
+    <string name="a301">Very obese</string>
+    <string name="a251">Obese</string>
+    <string name="a241">Normal weight</string>
+    <string name="a181">Too thin</string>
+
+
+
+
+</resources>
